@@ -23,7 +23,7 @@ If you wish to replicate the analysis, follow these steps:
 4. For the CONCOR analysis, use UCINET 6 software as described in the methodology section.
 
 ## Data Sources
-The dataset used for this analysis is not included in this repository. You can find the data sources and instructions for data collection in the respective R scripts in the `scripts/` directory.
+The datasets used for this analysis are included in this repository. You can find the data sources in the `data/` directory and instructions for data collection in the respective R scripts in the `scripts/` directory.
 
 ## Dependencies
 Make sure you have R and any required R packages installed. Dependencies are listed within the R scripts themselves.
