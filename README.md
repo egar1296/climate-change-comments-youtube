@@ -6,7 +6,7 @@ This repository contains the R scripts used for the analysis of comments from th
 ## Contents
 This repository contains the following main components:
 
-- `data and results/`: This directory holds the data files used for the analysis and the co-occurrence matrices used for CONCOR analysis.
+- `data/`: This directory holds the data files used for the analysis and the co-occurrence matrices used for CONCOR analysis.
 - `scripts/`: All R scripts used for data collection, cleaning, and matrix preparation are stored here.
 - `LICENSE`: A license file that specifies the terms of use for the code and data.
 
@@ -22,7 +22,7 @@ If you wish to replicate the analysis, follow these steps:
 4. For the CONCOR analysis, use UCINET 6 software as described in the methodology section.
 
 ## Data Sources
-The datasets used for this analysis are included in this repository. You can find the data sources in the `data and results/` directory and instructions for data collection in the respective R scripts in the `scripts/` directory.
+The datasets used for this analysis are included in this repository. You can find the data sources in the `data/` directory and instructions for data collection in the respective R scripts in the `scripts/` directory.
 
 ## Dependencies
 Make sure you have R and any required R packages installed. Dependencies are listed within the R scripts themselves.
